@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Sameer07x19
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning JavaScript 
+- Hi👋,I am @Sameer07x19
+- I’m interested in web development 👀 
+- I’m currently learning frontend web development 
+
 
 
 <!---
