@@ -4,14 +4,14 @@
 <h1>I am a Frontend Web Developer ❤️</h1>
 <h2> About Me 👨‍</h2>
  
- 💻 **Aspiring Website Developer** and **a Second year student of Information Technology** 🎓. My passion for Computer Science brought me here. I am eager to learn new technologies and apply them to either develop something helpful or improve existing applications.
+ 💻 **Aspiring Website Developer** and **a Last year student of Information Technology** 🎓. My passion for Computer Science brought me here. I am eager to learn new technologies and apply them to either develop something helpful or improve existing applications.
  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
--  🔭 I'm currently learning **Frontend Web Development** 🙋‍♂️and improving my **Javascript** and **ReactJS** skills👨‍💻.
+-  🔭 I'm currently learning **Frontend Web Development** 🙋‍♂️and improving my **Javascript** and **Bootstrap** skills👨‍💻.
   
--  🌱 I'm familiar with Gsap library, NodeJS, Git, ReactJS.
+-  🌱 I'm familiar with Bootstrap and Gsap library
 
--   👀 I’m interested in Open Source Projects and Developing interactive websites.
+-  👀 I’m interested in Open Source Projects and Developing interactive websites.
   
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sameer07x19/) 
