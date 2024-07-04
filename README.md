@@ -1,7 +1,7 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="35">, I'm [Sameer!](https://sameer07x19.github.io/) 
 <br>
-<h1>I am a Frontend Web Developer ❤️</h1>
+<h1>I am a Frontend Web Developer 🌊</h1>
 <h2> About Me</h2>
  
  💻 **Aspiring Website Developer** and **a Last year student of Information Technology** 🎓. My passion for Computer Science brought me here. I am eager to learn new technologies and apply them to either develop something helpful or improve existing applications.
