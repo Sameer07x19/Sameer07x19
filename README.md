@@ -8,9 +8,9 @@
  
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
  <img width="20%" align="right" alt="Github"  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif">
--  🔭 I'm currently learning Frontend and improving my Javascript and React skills.
+-  🔭 I'm currently learning Web Dev and improving my Javascript and React skills.
   
--  🌱 I'm familiar with Bootstrap and Gsap library 
+-  🌱 I'm familiar with Javascript and Gsap library 
 
 -  👀 I’m interested in Open Source Projects and Developing interactive websites.
   
