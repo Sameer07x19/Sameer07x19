@@ -10,7 +10,7 @@
 ![Developer](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif)
 
 - 🔭 Currently improving my skills in **Web Development**, **JavaScript**, and **React**.
-- 🌱 Familiar with **JavaScript** and the **GSAP** library for dynamic animations.
+- 🌱 Familiar with JavaScript, ReactJS, Tailwind CSS, Material UI, Java and SQL.
 - 👀 Passionate about creating interactive websites that engage users.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sameer07x19/).
 
