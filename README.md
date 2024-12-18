@@ -1,8 +1,9 @@
 # 💫 About Me:
--🔭 Currently improving my skills in Web Development, JavaScript, and React.
-<br>-🌱 Familiar with JavaScript, ReactJS, Tailwind CSS, Material UI, Java and SQL.
-<br>-👀 Passionate about creating interactive websites that engage users.
-<br>- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sameer07x19/).
+
+<br>- **🔭 Currently improving my skills in Web Development, JavaScript, and React.**
+<br>- **🌱 Familiar with JavaScript, ReactJS, Tailwind CSS, Material UI, Java and SQL.**
+<br>- **👀 Passionate about creating interactive websites that engage users.**
+<br>- **📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sameer07x19/).**
 <br/>
 
 ## 🌐 Socials:
