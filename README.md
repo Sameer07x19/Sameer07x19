@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <!--
 <br>- **🔭 Currently improving my skills in Web Development, JavaScript, and React.**
 <br>- **🌱 Familiar with JavaScript, ReactJS, Java and SQL.**
@@ -7,25 +7,33 @@
 <br> **🔭 Currently learning Java, Springboot and SQL for Backend Development.**
 <br> **🌱 Familiar with JavaScript, ReactJS, Java and SQL.**
 <br> **📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sameer07x19/).**
-<br/>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sameer07x20) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer07x19) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sameer07x19) 
+<br>
 <br/>
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>  &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/>  &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>  &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>  &nbsp;
+<br>
+<br>
+## 🌐 Socials: 
+<br>
+<a href="https://linkedin.com/in/sameer07x19" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
 <br/>
 
-## 🚀 Projects:
-<!-- **[Gym App](#[link](https://github.com/Sameer07x19/Sameer07x19/Gym App))**: A exericse application featuring clean UI built with ReactJS and Material UI, leveraging the use of ExerciseDB API.
+
+
+<!-- ## 🚀 Projects:
+**[Gym App](#[link](https://github.com/Sameer07x19/Sameer07x19/Gym App))**: A exericse application featuring clean UI built with ReactJS and Material UI, leveraging the use of ExerciseDB API.
 **[Duo Studio Website Replication](#link)**: A frontend clone of a dynamic, award-winning webpage using GSAP and ScrollTrigger for interactive effects. -->
 <br/>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer07x19&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sameer07x19&theme=dark&hide_border=true)<br/>
 
