@@ -1,8 +1,8 @@
 # About Me
 
 <br> **🔭 Currently learning Java, Springboot and SQL for Backend Development.**
-<br> **🌱 Familiar with JavaScript, ReactJS, Java and SQL.**
-<br> **📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sameer07x19/).**
+<br> **🌱 Familiar with JavaScript, ReactJS and ExpressJs.**
+<br> **📫 Reach me on [LinkedIn](https://www.linkedin.com/in/Sameer07x19/).**
 <br>
 <br/>
 
