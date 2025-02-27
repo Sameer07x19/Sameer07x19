@@ -4,7 +4,7 @@
 
 ## 💡 About Me
 - 🔭 **Currently Learning**: Java, Spring Boot, SQL for Backend Development.
-- 🌱 **Tech Familiarity**: JavaScript, GSAP, Material UI, ReactJS, Express.js.
+- 🌱 **Tech Familiarity**: JavaScript, ReactJS, Express.js.
 - 📫 **Reach Me On**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sameer07x19/)
 
 ---
