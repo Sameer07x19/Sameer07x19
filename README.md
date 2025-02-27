@@ -40,10 +40,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer07x19&show_icons=true&theme=dark&border_color=ffffff" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer07x19&theme=dark&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
