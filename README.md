@@ -1,51 +1,43 @@
-# Hi there, I'm Sameer Sayyed 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sameer07x19&color=green)
-
-## 💡 About Me
-- 🔭 **Currently Learning**: Java, Spring Boot, SQL for Backend Development.
-- 🌱 **Tech Familiarity**: JavaScript, ReactJS, Express.js.
-- 📫 **Reach Me On**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sameer07x19/)
-
----
-
-## 💻 Skills & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
----
-
-<!--
-## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0FB7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Dev+Universe;Developer+%7C+Lifelong+Learner" />
 </p>
 
----
--->
-
-## 📊 GitHub Stats
-
+## 🌐 Connect with Me:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer07x19&theme=dark&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <a href="https://discord.gg/sameerx77"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+  <a href="https://instagram.com/sameer07x20"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sameersayyad"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/sameer07x19/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/23811938/sameer-sayyed"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://x.com/sameer07x19"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+  <a href="mailto:sameer07x19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🔥 Contributions
+## 🧠 Tech Stack Highlights:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java" /><br>
+  <img src="https://skillicons.dev/icons?i=react,mongodb,mysql,spring,hibernate" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,ubuntu,netlify" />
+</p>
+
+---
+
+## 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameer07x19&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer07x19&theme=tokyonight&hide_border=false" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer07x19&layout=compact&theme=tokyonight&hide_border=false" height="200"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sameer07x19&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer07x19&theme=dark&border=ffffff" alt="GitHub Streak"/>
