@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0FB7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Dev+Universe;Developer+%7C+Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0FB7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Github+Universe;CCNA+%7C+Cybersecurity+Enthusiast;Developer+%7C+Lifelong+Learner" />
 </p>
 
 ## 🌐 Connect with Me:
