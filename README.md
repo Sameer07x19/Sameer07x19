@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0FB7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Github+Universe;CCNA+%7C+Cybersecurity+Enthusiast;Developer+%7C+Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0FB7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Github+Universe;CCNA+%7C+Cloud+Enthusiast;Administrator+%7C+Lifelong+Learner" />
 </p>
 
 ---
@@ -10,8 +10,7 @@
 ## 🧠 Tech Stack Highlights:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java" /><br>
-  <img src="https://skillicons.dev/icons?i=react,mongodb,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,ubuntu,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,netlify" />
 </p>
 
 ---
